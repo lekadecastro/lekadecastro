@@ -1,16 +1,18 @@
-### Hi there 👋
+#### Hi there, I'm Alessandra 👋
 
-<!--
-**lekadecastro/lekadecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About: :rocket:
+I'm currently a student at [Rocketseat](https://app.rocketseat.com.br/) on the Explorer track.
 
-Here are some ideas to get you started:
+### Current stack: :technologist:
+- Main language: `Javascript`
+- Backend: `Nodejs`
+- Fronted: `HTML5`, `CSS3`, `Javascript`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: `VsCode` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact: :iphone:
+- Linkedin: https://www.linkedin.com/in/alessandra-castro-95a73549/
+  
+
+
