@@ -4,7 +4,7 @@
 I'm currently a student at [Rocketseat](https://app.rocketseat.com.br/) on the Explorer track.
 
 ### Current stack: :technologist:
-- Main language: `Javascript`
+- Main language: `Javascript` `C#`
 - Backend: `Nodejs`
 - Fronted: `HTML5`, `CSS3`, `Javascript`
 - Layout Design: `Figma`
