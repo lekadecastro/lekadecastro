@@ -1,4 +1,4 @@
-# Olá, eu sou a Alessandra! 👋
+# Olá, eu sou Alessandra! 👋
 
 ### 💼 Consultora de Sistemas | Especialista em Financeiro e Contábil
 Atualmente atuo como **Consultora de Sistemas**, unindo meu background técnico em desenvolvimento com uma sólida experiência nos setores **Financeiro e Contábil**. Meu foco é transformar processos complexos em soluções digitais eficientes, garantindo conformidade, precisão de dados e otimização de fluxos de trabalho.
